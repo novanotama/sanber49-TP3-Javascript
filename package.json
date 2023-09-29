@@ -1,0 +1,19 @@
+{
+  "name": "sanber49-tp3-javascript",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 3 JavaScript",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sanber49-TP3-Javascript"
+  },
+  "author": "novant",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
