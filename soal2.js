@@ -48,7 +48,7 @@ let productBin = {
       }
     });
   
-    return { totalQuantity, nameProduct, codeProduct }; // Mengembalikan total quantity dan nama produk
+    return { totalQuantity, nameProduct, codeProduct }; // Mengembalikan total quantity, nama produk dan kode produk
   }
   
   const productCodeToCheck = "FBR00040101";
